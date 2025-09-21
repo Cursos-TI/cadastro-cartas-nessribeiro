@@ -16,6 +16,26 @@ int main() {
   char nomeCidadeF01[20], nomeCidadeF02[20], nomeCidadeF03[20], nomeCidadeF04[20];
   char nomeCidadeG01[20], nomeCidadeG02[20], nomeCidadeG03[20], nomeCidadeG04[20];
   char nomeCidadeH01[20], nomeCidadeH02[20], nomeCidadeH03[20], nomeCidadeH04[20];
+
+  //Variáveis das propriedades - ESTADO A
+  int populacaoA01, populacaoA02,populacaoA03, populacaoA04;
+  float areaA01, areaA02, areaA03, areaA04;
+  float pibA01, pibA02, pibA03, pibA04;
+  int pontosTuristicosA01, pontosTuristicosA02, pontosTuristicosA03, pontosTuristicosA04;
+
+  //Variáveis das propriedades - ESTADO B
+  int populacaoB01, populacaoBA02,populacaoB03, populacaoB04;
+  float areaB01, areaB02, areaB03, areaB04;
+  float pibB01, pibB02, pibB03, pibB04;
+  int pontosTuristicosA01, pontosTuristicosA02, pontosTuristicosA03, pontosTuristicosA04;
+  
+  //Variáveis das propriedades - ESTADO C
+  //Variáveis das propriedades - ESTADO D
+  //Variáveis das propriedades - ESTADO E
+  //Variáveis das propriedades - ESTADO F
+  //Variáveis das propriedades - ESTADO G
+  //Variáveis das propriedades - ESTADO H
+  
   
   
   // Área para entrada de dados
